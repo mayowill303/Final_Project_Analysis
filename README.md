@@ -24,14 +24,11 @@
 - Bree - TBD
 
 ## Machine Learning Model
-Our team presented a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+(Triangle Team Member) presented a provisional machine learning model that stands in for the final machine learning model and accomplished the following:
 - Takes in data in from the provisional database
 - Outputs label(s) for input data
-### Getting started
-- We imported the (source_data).csv and (source_data).csv into jupyter notebook(ipynb).
-- Describe any manipulation required.
 
 ## Database
-Team members present a provisional database that stands in for the final database and accomplishes the following:
+Chris presented a provisional database that stands in for the final database and accomplished the following:
 - Sample data that mimics the expected final database structure or schema
 - Draft machine learning module is connected to the provisional database
