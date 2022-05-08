@@ -15,7 +15,7 @@
 ### Group Communication Protocols
 - We communicated regularly using Slack and held weekly meeting via Zoom.
 - We shared resources, research, code snippets and role updates via slack and github.
-- We prepared project tracker to monitor completion of tasks and schedule due dates?
+- We prepared project tracker to monitor completion of tasks and schedule due dates.
 
 #### Team Roles
 - Will (Square): Responsible for the repository.
