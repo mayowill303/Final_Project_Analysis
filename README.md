@@ -19,9 +19,9 @@
 
 #### Team Roles
 - Will (Square): Responsible for the repository.
-- Chris (Circle): Created a mockup of a database with a set of sample data data. This ensured the database worked seamlessly with the rest of the project.
-- Amy - TBD
-- Bree - TBD
+- Chris (Circle): Created a mockup of the database with a set of sample data data. Chris ensured the database worked seamlessly with the rest of the project.
+- Amy (X Role): Decided which technologies will be used for each step of the project.
+- Bree (Triangle): Created a mockup of the machine learning model. Bree created a diagram that explained how it will work concurrently with the rest of the project steps.
 
 ## Machine Learning Model
 (Triangle Team Member) presented a provisional machine learning model that stands in for the final machine learning model and accomplished the following:
